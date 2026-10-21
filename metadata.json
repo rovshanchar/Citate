@@ -1,0 +1,6 @@
+{
+  "name": "Голоса Улиц — Архив Цитат Незнакомцев",
+  "description": "Публичная цифровая антология для сохранения и чтения случайных, глубоких и ироничных фраз неизвестных людей.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
